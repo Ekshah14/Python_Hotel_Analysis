@@ -2,8 +2,11 @@
 Hotel analysis using Pandas
 
 - **Project objective:** 
-Conduct Data cleaning, Transformation EDA, statistical analysis, and visualization. 
+Conduct Data cleaning, Transformation EDA, statistical analysis, and visualization.
+
+
 Provided insights on:
+
    **1. **What is an average occupany rate in each of the room categories?
    **2. **Print average occupancy rate per city.
    **3. **When was the occupancy better? Weekday or Weekend?
